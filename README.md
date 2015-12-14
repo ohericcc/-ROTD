@@ -11,6 +11,7 @@ ROTD uses these python libraries to work properly:
 * [pickle] - Serialization of objects and working persistent data
 * [BeautifulSoup] - HTML/XML parser for extracting data
 * [webbrowser] - For opening links of news article in browser
+
 ### Usage
 To avoid having to type the entire command to run the script, an alias is recommended.
 ```sh
