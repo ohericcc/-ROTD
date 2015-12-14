@@ -28,7 +28,8 @@ $ dr
 > To revert back, the -reset option should be used. 
 > In order to sync news with the most current, the -sync-current-news option should be used. 
 > To open the news article in a web browser, the -open-link option should be used with the article number desired.
-```
+
+```sh
 usage: rotd.py [-h] [-a] [-n] [-f] [-r] [-s] [-o OPEN_LINK]
 
 Recap of the Day! #ROTD
@@ -44,6 +45,7 @@ optional arguments:
   -o OPEN_LINK, --open-link OPEN_LINK
                         opens new tab in browser with news article of choice
 ```
+
 ### Future features
  - Weather updates for the week
  - Additional reddit pages or news sites
