@@ -5,6 +5,7 @@ This script was designed to be run at the start of a terminal session to provide
 * To stay up to date with current events and news
 * To gain inspiration from various works and authors
 * To minimize distraction time often experienced on a web browser
+
 ### Dependencies
 ROTD uses these python libraries to work properly:
 * [pickle] - Serialization of objects and working persistent data
