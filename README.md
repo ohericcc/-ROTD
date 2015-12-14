@@ -1,5 +1,8 @@
 # #ROTD
 ROTD is a python script which provides a recap of the day by web scraping various websites. The recap consists of a bible verse, an inspirational quote, and a mini RSS-feed displaying headlines of current news from [/r/news] and [/r/worldnews].
+
+![](redditnews.png)
+
 ### Purpose
 This script was designed to be run at the start of a terminal session to provide a composite information block from various websites.
 * To stay up to date with current events and news
@@ -19,6 +22,7 @@ $ alias dr='python rotd.py'
 $ dr
 ```
 ![](screenshot.png)
+
 ### Options
 When the information block above is unwanted, the remove-all option should be used, or to revert back, the -reset option should be used. In order to sync news with the most current, the -sync-current-news option should be used. To open the news article in a web browser, the -open-link option should be used with the article number desired.
 ```
