@@ -24,7 +24,10 @@ $ dr
 ![](screenshot.png)
 
 ### Options
-When the information block above is unwanted, the remove-all option should be used, or to revert back, the -reset option should be used. In order to sync news with the most current, the -sync-current-news option should be used. To open the news article in a web browser, the -open-link option should be used with the article number desired.
+> When the information block above is unwanted, the remove-all option should be used
+> To revert back, the -reset option should be used. 
+> In order to sync news with the most current, the -sync-current-news option should be used. 
+> To open the news article in a web browser, the -open-link option should be used with the article number desired.
 ```
 usage: rotd.py [-h] [-a] [-n] [-f] [-r] [-s] [-o OPEN_LINK]
 
